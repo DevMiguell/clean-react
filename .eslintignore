@@ -3,6 +3,7 @@
 # dependencies
 /node_modulenode_modules
 .vscode
+coverage
 /.pnp
 .pnp.js
 
